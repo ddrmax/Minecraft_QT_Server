@@ -12,7 +12,9 @@ and in my case the minecraft Server is the bottleneck (need too much CPU and RAM
 The server will have limitations:
 Max 100 slots
 no online check (possibly added in a future version)
+
 no possibilty to send keep alive to minecraft.net (possibly added in a future version)
+
 Size of the map limited for chunks that have already been created or flat maps (until I create a qt fork of the
 minecraft map generator) 
 
