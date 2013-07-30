@@ -3,6 +3,7 @@ Minecraft_QT_Server
 
 Minecraft Server developed in QT for 1.5 / 1.6 and further version support 
 
+support for older versions can be realized by forking and modifying the oldest support.
 
 This Minecraft Server will be a base server developped in QT to be used in linux / mac / Windows.
 
