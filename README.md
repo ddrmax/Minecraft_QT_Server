@@ -62,8 +62,3 @@ the server will add a super feature for if the version of minecraft required exi
 download automatically the stack for it's need to run for.
 
 It will be the same for second and third floor stack.
-
-
-The fist release will come at least in the end of august if possible with the support for 1.6.2 clients in the windows
-version. (I develop in a windows workstation and compile debian versions in a ubuntu WM that need to be setup for this
-case.)
