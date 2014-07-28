@@ -1,7 +1,7 @@
 Minecraft_QT_Server
 ===================
 
-Minecraft Server developed in QT for 1.5 / 1.6 and further version support 
+Minecraft Server developed in QT for 1.5 / 1.6 /1.7 /1.8 and further version support 
 
 support for older versions can be realized by forking and modifying the oldest support.
 
@@ -14,7 +14,7 @@ The server will have limitations:
 
 Max 100 slots
 
-no online check (possibly added in a future version)
+online check possible(When the Yggdrasil authentication service will be implemented)
 
 no possibilty to send keep alive to minecraft.net (possibly added in a future version)
 
@@ -56,7 +56,7 @@ The server will use two configuration files:
 the server.properties like the default minecraft server
 the server.conf who will have the extra conf : plugins used and other stuff.
 
-The server will be fully compatible others minecraft files like ban, ops and whitelist files
+The server will be fully compatible with others minecraft files like ban, ops and whitelist files
 
 the server will add a super feature for if the version of minecraft required exists but it's not installed it will
 download automatically the stack for it's need to run for.
